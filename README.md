@@ -1,3 +1,3 @@
 # DSP_series
 
-# Parzen窗代码
+Parzen窗代码
